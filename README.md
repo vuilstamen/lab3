@@ -95,7 +95,7 @@
    <img src="simulation_results/2круг.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
-   <b>Рисунок 6. Треугольник (Неймана)</b><br>
+   <b>Рисунок 6. Треуг. (Неймана)</b><br>
    <sub>Тепловая карта</sub><br>
    <img src="simulation_results/2треуг (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
@@ -113,21 +113,21 @@
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 7. max_steps = 100 (Мура)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/3_100 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/3_100(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/3_100.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 8. max_steps = 200 (Мура)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/3_200 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/3_200(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/3_200.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 9. max_steps = 300 (Мура)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/3_300 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/3_300(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/3_300.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
@@ -137,21 +137,21 @@
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 10. max_steps = 100 (Неймана)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/4_100 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/4_100(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/4_100.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 11. max_steps = 200 (Неймана)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/4_200 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/4_200(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/4_200.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 12. max_steps = 300 (Неймана)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/4_300 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/4_300(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/4_300.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
@@ -167,21 +167,21 @@
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 13. Дрейф 1% (Мура)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/5_1 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/5_1(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/5_1.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 14. Дрейф 2% (Мура)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/5_2 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/5_2(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/5_2.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 15. Дрейф 5% (Мура)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/5_5 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/5_5(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/5_5.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
@@ -191,21 +191,21 @@
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 16. Дрейф 1% (Неймана)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/6_1 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/6_1(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/6_1.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 17. Дрейф 2% (Неймана)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/6_2 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/6_2(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/6_2.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 18. Дрейф 5% (Неймана)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/6_5 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/6_5(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/6_5.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
@@ -221,21 +221,21 @@
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 19. Дрейф 1% (Мура)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/7_1 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/7_1(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/7_1.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 20. Дрейф 2% (Мура)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/7_2 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/7_2(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/7_2.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 21. Дрейф 5% (Мура)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/7_5 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/7_5(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/7_5.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
@@ -245,21 +245,21 @@
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 22. Дрейф 1% (Неймана)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/8_1 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/8_1(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/8_1.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 23. Дрейф 2% (Неймана)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/8_2 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/8_2(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/8_2.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
   <td width="33%" align="center" valign="top" style="padding: 10px; vertical-align: top;">
    <b>Рисунок 24. Дрейф 5% (Неймана)</b><br>
    <sub>Тепловая карта</sub><br>
-   <img src="simulation_results/8_5 (2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
+   <img src="simulation_results/8_5(2).png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;"><br>
    <sub>Ансамбль траекторий</sub><br>
    <img src="simulation_results/8_5.png" style="width: 100%; max-width: 400px; display: block; margin: 5px auto;">
   </td>
