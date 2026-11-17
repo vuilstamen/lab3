@@ -45,26 +45,28 @@
 Ниже представлены результаты моделирования для различных конфигураций поля и режимов блуждания. 
 В каждом блоке: **слева** — тепловая карта плотности посещений, **справа** — ансамбль траекторий.
 
+💡 Для просмотра изображений дождитесь полной загрузки страницы. При медленном интернет-соединении загрузка большого количества рисунков может занять некоторое время.
+
 <table>
  <!-- Случай 1: Влияние формы поля (Окрестность Мура) -->
  <tr>
   <td width="33%" align="center">
    <b>Рисунок 1. Квадрат (Мура)</b><br>
-   <img src="simulation_results/1квадр(2).png" width="100%"><br>
+   <img src="simulation_results/1квадр (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/1квадр.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 2. Круг (Мура)</b><br>
-   <img src="simulation_results/1круг(2).png" width="100%"><br>
+   <img src="simulation_results/1круг (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/1круг.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 3. Треугольник (Мура)</b><br>
-   <img src="simulation_results/1треуг(2).png" width="100%"><br>
+   <img src="simulation_results/1треуг (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/1треуг.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
@@ -75,21 +77,21 @@
  <tr>
   <td width="33%" align="center">
    <b>Рисунок 4. Квадрат (Неймана)</b><br>
-   <img src="simulation_results/2квадр(2).png" width="100%"><br>
+   <img src="simulation_results/2квадр (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/2квадр.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 5. Круг (Неймана)</b><br>
-   <img src="simulation_results/2круг(2).png" width="100%"><br>
+   <img src="simulation_results/2круг (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/2круг.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 6. Треугольник (Неймана)</b><br>
-   <img src="simulation_results/2треуг(2).png" width="100%"><br>
+   <img src="simulation_results/2треуг (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/2треуг.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
@@ -100,21 +102,21 @@
  <tr>
   <td width="33%" align="center">
    <b>Рисунок 7. max_steps = 100</b><br>
-   <img src="simulation_results/3_100(2).png" width="100%"><br>
+   <img src="simulation_results/3_100 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/3_100.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 8. max_steps = 200</b><br>
-   <img src="simulation_results/3_200(2).png" width="100%"><br>
+   <img src="simulation_results/3_200 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/3_200.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 9. max_steps = 300</b><br>
-   <img src="simulation_results/3_300(2).png" width="100%"><br>
+   <img src="simulation_results/3_300 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/3_300.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
@@ -125,21 +127,21 @@
  <tr>
   <td width="33%" align="center">
    <b>Рисунок 10. max_steps = 100</b><br>
-   <img src="simulation_results/4_100(2).png" width="100%"><br>
+   <img src="simulation_results/4_100 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/4_100.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 11. max_steps = 200</b><br>
-   <img src="simulation_results/4_200(2).png" width="100%"><br>
+   <img src="simulation_results/4_200 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/4_200.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 12. max_steps = 300</b><br>
-   <img src="simulation_results/4_300(2).png" width="100%"><br>
+   <img src="simulation_results/4_300 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/4_300.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
@@ -150,21 +152,21 @@
  <tr>
   <td width="33%" align="center">
    <b>Рисунок 13. Дрейф 1%</b><br>
-   <img src="simulation_results/5_1(2).png" width="100%"><br>
+   <img src="simulation_results/5_1 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/5_1.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 14. Дрейф 2%</b><br>
-   <img src="simulation_results/5_2(2).png" width="100%"><br>
+   <img src="simulation_results/5_2 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/5_2.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 15. Дрейф 5%</b><br>
-   <img src="simulation_results/5_5(2).png" width="100%"><br>
+   <img src="simulation_results/5_5 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/5_5.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
@@ -175,21 +177,21 @@
  <tr>
   <td width="33%" align="center">
    <b>Рисунок 16. Дрейф 1%</b><br>
-   <img src="simulation_results/6_1(2).png" width="100%"><br>
+   <img src="simulation_results/6_1 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/6_1.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 17. Дрейф 2%</b><br>
-   <img src="simulation_results/6_2(2).png" width="100%"><br>
+   <img src="simulation_results/6_2 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/6_2.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 18. Дрейф 5%</b><br>
-   <img src="simulation_results/6_5(2).png" width="100%"><br>
+   <img src="simulation_results/6_5 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/6_5.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
@@ -200,21 +202,21 @@
  <tr>
   <td width="33%" align="center">
    <b>Рисунок 19. Дрейф 1%</b><br>
-   <img src="simulation_results/7_1(2).png" width="100%"><br>
+   <img src="simulation_results/7_1 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/7_1.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 20. Дрейф 2%</b><br>
-   <img src="simulation_results/7_2(2).png" width="100%"><br>
+   <img src="simulation_results/7_2 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/7_2.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 21. Дрейф 5%</b><br>
-   <img src="simulation_results/7_5(2).png" width="100%"><br>
+   <img src="simulation_results/7_5 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/7_5.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
@@ -225,14 +227,14 @@
  <tr>
   <td width="33%" align="center">
    <b>Рисунок 22. Дрейф 1%</b><br>
-   <img src="simulation_results/8_1(2).png" width="100%"><br>
+   <img src="simulation_results/8_1 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/8_1.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
   </td>
   <td width="33%" align="center">
    <b>Рисунок 23. Дрейф 2%</b><br>
-   <img src="simulation_results/8_2(2).png" width="100%"><br>
+   <img src="simulation_results/8_2 (2).png" width="100%"><br>
    <sub>Тепловая карта</sub><br><br>
    <img src="simulation_results/8_2.png" width="100%"><br>
    <sub>Ансамбль траекторий</sub>
@@ -247,6 +249,3 @@
  </tr>
 </table>
 
-💡 Для просмотра изображений дождитесь полной загрузки страницы. При медленном интернет-соединении загрузка большого количества рисунков может занять некоторое время.
-
-💡 Для просмотра изображений дождитесь полной загрузки страницы. При медленном интернет-соединении загрузка большого количества рисунков может занять некоторое время.
